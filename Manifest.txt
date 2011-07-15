@@ -1,0 +1,8 @@
+.autotest
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+bin/octo_rest
+lib/octo_rest.rb
+test/test_octo_rest.rb
